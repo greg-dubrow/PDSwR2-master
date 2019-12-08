@@ -1,7 +1,10 @@
 
 # Original README from book is below.
 
-Copy of files from Zumel/Mount "Practical Data Science with R" to use with my code-through files
+Copy of files from Zumel/Mount "Practical Data Science with R" to use with my code-through files. Code-through scripts will be put up in their own fodler as I work my way through the book.
+
+
+
 
 
 # Example code and data for "Practical Data Science with R" 2nd Edition by Nina Zumel and John Mount.
